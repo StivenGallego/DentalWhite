@@ -11,7 +11,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Home WHITE TEETH Proyecto</title>
+    <title>Home WHITE TEETH</title>
     <link href="css/estilo.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
     
